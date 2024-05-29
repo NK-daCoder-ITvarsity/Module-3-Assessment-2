@@ -10,6 +10,7 @@
 <h2>Table Of Content</h2>
 <ul>
   <li><a href="">How This App Came to be...</a></li>
+  <li><a href="">Thought Process of an Engineer...</a></li>
   <li><a href="">Problems This App Solves...</a></li>
   <li><a href="">How To Use App...</a></li>
   <li><a href="">Licensing...</a></li>
@@ -18,13 +19,16 @@
 
 <h2>How This App Came to Be</h2>
 <p>
-  A investigation was done through interviewing numerouse clients and customers at our 
-  local resturant, where customers were complaining about them being unable to get their top
-  of the morning breakfast, lunch and dinner due to the exhasting long qeues that the resturant had 
-  therefore a group of engineers had to help combat for this issue due to the fact that even they could not 
-  get their top of da morning coffee due to the piled up qeues that awaited them. <br>So they needed to find a way 
-  to get items delivered as swiftly as possible with the help of technology.
+  Picture this a fine crispy morning at a top of a day resturant, coffee beans is brewing, honey dripping pancakes, the sweat, sweat 
+  luxary sweet just fills the air, however this day could not get any sweeter. Lawyers and businessmen, students of mayhem standing in long qeues leading from Monday,
+  to hey, hey its friday, a serpentine line of weary customers winds its way through the establishment, each person longing for their morning fix but growing increasingly frustrated by 
+  the wait. Not only was the customers fraustrated but the management team was as well as they were having a hard time keeping track of storck itself.
+
+  It was then that group of engineers seeking problems as opportunities, an astonding idea ignited within their hearts as they also stand in line waiting for their
+  top of the morning home brewed cafe, Saw the fraustration of the customers and the stock control team and decided to do something about it.
 </p>
+
+
 
 <h2>Problems this App solves</h2>
 <p>
