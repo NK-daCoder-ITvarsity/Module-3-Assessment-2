@@ -12,9 +12,9 @@
   <li><a href="#how-this-app-came-to-be">How This App Came to be...</a></li>
   <li><a href="#thoughts">Thought Process of an Engineer...</a></li>
   <li><a href="#solved">Problems This App Solves...</a></li>
-  <li><a href="">How To Use App...</a></li>
-  <li><a href="">Licensing...</a></li>
-  <li><a href="">Contribution...</a></li>
+  <li><a href="#how-to-use">How To Use App...</a></li>
+  <li><a href="#licensing">Licensing...</a></li>
+  <li><a href="#contribution">Contribution...</a></li>
 </ul>
 
 <h2 id="how-this-app-came-to-be">How This App Came to Be</h2>
@@ -99,3 +99,7 @@
     </ul>
   </li>
 </ol>
+
+<h2 id="how-to-use">How To Use The App...</h2>
+<h2 id="licensing">Licensing...</h2>
+<h2 id="contribution">Contribution...</h2>
