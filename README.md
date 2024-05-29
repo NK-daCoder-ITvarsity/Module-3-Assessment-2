@@ -101,5 +101,13 @@
 </ol>
 
 <h2 id="how-to-use">How To Use The App...</h2>
+No installation is reqiured just click on this link...
+<a href="">Link</a>
 <h2 id="licensing">Licensing...</h2>
+<p>
+  The App was developed for educational purposes
+</p>
 <h2 id="contribution">Contribution...</h2>
+<p>
+  Any contributions made to the repository should be saved in a seperate branch from the main branch
+</p>
