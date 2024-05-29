@@ -28,6 +28,14 @@
   top of the morning home brewed cafe, Saw the fraustration of the customers and the stock control team and decided to do something about it.
 </p>
 
+<h2>Thought Process of an Engineer...</h2>
+<p>
+  At this point it wasn't about technology for technologies sake, or getting ride of the resturants extrodinary astablishment, It was about empathy. It was about understanding the pain 
+  points of customers and crafting a solution that would not only meet their needs but delight them. The engineers embarked on a journey, diving deep into the daily operations of the 
+  restaurant. They spoke to customers, listened to their stories, and absorbed their frustrations and desires. They engaged with the restaurant staff, understanding the challenges they 
+  faced during peak hours and how technology could streamline their workflow
+</p>
+
 
 
 <h2>Problems this App solves</h2>
