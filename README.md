@@ -9,15 +9,15 @@
 
 <h2>Table Of Content</h2>
 <ul>
-  <li><a href="">How This App Came to be...</a></li>
-  <li><a href="">Thought Process of an Engineer...</a></li>
-  <li><a href="">Problems This App Solves...</a></li>
+  <li><a href="#how-this-app-came-to-be">How This App Came to be...</a></li>
+  <li><a href="#thoughts">Thought Process of an Engineer...</a></li>
+  <li><a href="#solved">Problems This App Solves...</a></li>
   <li><a href="">How To Use App...</a></li>
   <li><a href="">Licensing...</a></li>
   <li><a href="">Contribution...</a></li>
 </ul>
 
-<h2>How This App Came to Be</h2>
+<h2 id="how-this-app-came-to-be">How This App Came to Be</h2>
 <p>
   Picture this a fine crispy morning at a top of a day resturant, coffee beans is brewing, honey dripping pancakes, the sweat, sweat 
   luxary sweet just fills the air, however this day could not get any sweeter. Lawyers and businessmen, students of mayhem standing in long qeues leading from Monday,
@@ -28,7 +28,7 @@
   top of the morning home brewed cafe, Saw the fraustration of the customers and the stock control team and decided to do something about it.
 </p>
 
-<h2>Thought Process of an Engineer...</h2>
+<h2 id="thoughts">Thought Process of an Engineer...</h2>
 <p>
   At this point it wasn't about technology for technologies sake, or getting ride of the resturants extrodinary astablishment, It was about empathy. It was about understanding the pain 
   points of customers and crafting a solution that would not only meet their needs but delight them. The engineers embarked on a journey, diving deep into the daily operations of the 
@@ -36,7 +36,7 @@
   faced during peak hours and how technology could streamline their workflow.
 </p>
 
-<h2>Problems this App solves</h2>
+<h2 id="solved">Problems this App solves</h2>
 <ol>
   <li>
     <h3>Enhanced Customer Experience</h3>
