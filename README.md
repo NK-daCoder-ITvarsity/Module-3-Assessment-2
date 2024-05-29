@@ -101,7 +101,7 @@
 </ol>
 
 <h2 id="how-to-use">How To Use The App...</h2>
-No installation is reqiured just click on this link...
+<p>No installation is reqiured just click on this link...</p>
 <a href="">Link</a>
 <h2 id="licensing">Licensing...</h2>
 <p>
