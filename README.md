@@ -36,8 +36,6 @@
   faced during peak hours and how technology could streamline their workflow.
 </p>
 
-
-
 <h2>Problems this App solves</h2>
 <ol>
   <li>
@@ -86,10 +84,7 @@
     <h3>Financial Benefits</h3>
     <ul>
       <li>Labour Cost is Reduced due to the built-in direct communicatio with the kitchen</li>
-      <li>
-        The app can suggest add-ons or complementary items during the ordering process, increasing the average order value.
-      </li>
-      
+      <li>The app can suggest add-ons or complementary items during the ordering process, increasing the average order value.</li>
     </ul>
   </li>
 
@@ -101,7 +96,6 @@
       <li>
         Better inventory management leads to less food wastage, further supporting sustainable practices.
       </li>
-      
     </ul>
   </li>
 </ol>
