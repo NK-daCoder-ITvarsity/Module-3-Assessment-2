@@ -102,7 +102,7 @@
 
 <h2 id="how-to-use">How To Use The App...</h2>
 <p>No installation is reqiured just click on this link...</p>
-<a href="">Link</a>
+<a href="https://nk-dacoder-itvarsity.github.io/Module-3-Assessment-2/index.html">Uber Speeds</a>
 <h2 id="licensing">Licensing...</h2>
 <p>
   The App was developed for educational purposes. A test to see
