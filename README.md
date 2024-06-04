@@ -105,7 +105,8 @@
 <a href="">Link</a>
 <h2 id="licensing">Licensing...</h2>
 <p>
-  The App was developed for educational purposes
+  The App was developed for educational purposes. A test to see
+  if i can make a web app in just 1 week.
 </p>
 <h2 id="contribution">Contribution...</h2>
 <p>

@@ -1,0 +1,207 @@
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+:root {
+    --white-color: white;
+    --overall-screen-padding: 1em;
+    --section-top-margin: 1em;
+}
+
+.document-body {
+    background-color: hsla(0, 0%, 85%, 0.767);
+    gap: .5em;
+}
+
+.aside, .main-navigation {
+    background-color: var(--white-color);
+}
+
+
+/* =========================================== main ====================================== */
+.main {
+    overflow-y: auto;
+    padding: var(--overall-screen-padding);
+}
+
+.main-searchbar-section__searchbar {
+    border-radius: 50px;
+    width: 550px;
+    padding: 1em;
+    border: none;
+}
+
+@media (max-width: 900px) {
+    .main-searchbar-section__searchbar {
+        border-radius: 50px;
+        width: 80%;
+        padding: 1em;
+        border: none;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.main-catagories-section {
+    margin-top: var(--section-top-margin);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-catagories__catagory--current {
+    background-color: hsl(32, 100%, 64%);
+    color: hsl(14, 100%, 50%);
+    box-shadow: inset 1px 1px 5px 1px hsl(12, 100%, 50%), inset -1px -1px 5px 1px hsl(18, 100%, 97%);
+}
+
+.main-catagories__catagory--current:hover {
+    background-color: hsl(32, 100%, 57%);
+    color: hsl(14, 100%, 40%);
+}
+
+.main-catagories__catagory {
+    background-color: hsla(0, 0%, 68%, 0.342);
+    color: hsl(0, 0%, 46%);
+    border: 1px solid gray;
+}
+
+.main-catagories__catagory:hover {
+    background-color: hsla(0, 0%, 49%, 0.342);
+    color: hsl(0, 0%, 29%);
+    border: 1px solid hsl(0, 0%, 33%);
+}
+
+.main-catagories__catagory, .main-catagories__catagory--current {
+    padding: .5em;
+    border-radius: 20px;
+}
+
+.main-catagories__ul {
+    margin-top: 1.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 900px) {
+    .main-catagories__ul {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.catagory-menu-item {
+    font-size: .8rem;
+}
+
+/* ================== choose plate section ================ */
+
+.main-breakfast {
+    margin-top: 3em;
+}
+
+.main-breakfast__ul {
+    margin-top: 1em;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+}
+
+.breakfast-card {
+    text-align: center;
+    background-color: var(--white-color);
+    border-radius: 20px;
+    padding: 1em;
+
+    box-shadow: -4px -4px 2px 0 hsl(0, 0%, 99%), 4px 4px 10px 0 hsla(0, 0%, 0%, 0.849);
+}
+
+.main-breakfast__image {
+    width: 150px;
+    height: 150px;
+}
+
+.main-breakfast-card__text {
+    padding-top: 1em;
+}
+
+.main-breakfast-card__cost-price {
+    color: hsl(22, 100%, 50%);
+}
+
+.main-breakfast__button {
+    margin-top: 1em;
+    padding: 1em;
+    border: none;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    box-shadow: -1px -1px 1px 1px hsl(120, 100%, 50%), 1px 1px 1px 1px hsl(120, 100%, 9%);
+}
+
+.main-breakfast__button:hover {
+    color: white;
+    box-shadow: inset -1px -1px 2px 0 hsl(120, 100%, 50%), inset 1px 1px 2px 1px hsl(120, 100%, 9%);
+}
+
+.icon-image {
+    width: 25px;
+    height: 25px;
+}
+
+.nav__ul-item-1 > a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.navigation__text {
+    font-size: .7rem;
+}
+
+.nav-ul-item-1--current {
+    box-shadow: 2px 2px 5px 1px orangered, -2px -2px 5px 1px orange;
+    border-radius: 10px;
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 9em;
+}
+
+@media (max-width: 900px) {
+    .main-catagories__ul {
+        overflow-x: auto;
+        display: flex;
+        gap: 2em;
+    }
+
+    .main {
+        width: 100%;
+        padding-bottom: 9em;
+    }
+
+    .main-breakfast__ul {
+        padding: 2em;
+        overflow-x: auto;
+    }
+
+    .main-catagories__catagory {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+

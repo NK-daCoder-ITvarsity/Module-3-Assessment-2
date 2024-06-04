@@ -1,0 +1,46 @@
+.main-navigation {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.nav__ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100vw;
+    padding: 1em;
+}
+
+
+@media (min-width: 900px) {
+    .main-navigation {
+        position: fixed;
+        left: 0;
+        top: 0;
+    }
+
+    .nav__ul {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        width: 116px;
+    }
+}
+
+@media (max-width: 500px) {
+    .nav__ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 100vw;
+        overflow: auto;
+    }
+}
+
+
+
+
+
+
+

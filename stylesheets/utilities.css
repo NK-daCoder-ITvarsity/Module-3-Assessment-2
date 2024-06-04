@@ -1,0 +1,18 @@
+
+
+
+/* =================================== Unordered lists ====================================== */
+
+.ul--bullet-removed > li {
+    list-style-type: none;
+}
+
+.ul--underline-removed > li a{
+    text-decoration: none;
+}
+
+/* ========================================== Text =========================================== */
+
+.text-color--white {
+    color: white;
+}
